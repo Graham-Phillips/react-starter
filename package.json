@@ -24,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.7.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-redux": "^5.1.1",
